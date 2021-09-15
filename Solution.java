@@ -73,7 +73,7 @@ class Result {
 
 }
 
-public class Solution {
+public class BetterCompression {
 	public static void main(String[] args) throws IOException {
 		String result = Result.betterCompression("a13b2a12c10b45f45");
 		System.out.println(result);
